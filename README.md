@@ -2,12 +2,12 @@ The Web App is made by using react.js and hosted in Firebase ;
 The Youtube Clone look Like This:
 
 https://clone-5673c.web.app/
-          `OR`
+          ##OR
 https://clone-5673c.firebaseapp.com/
 
 please use your own firebase hosting config and keys...:)
 
-###INTENTIONALLY DELETED .firebase.js file to avoid misuse of key..:)
+## INTENTIONALLY DELETED .firebase.js file to avoid misuse of key..:)
 ## Available Scripts
 
 In the project directory, after adding firebase config run: 
