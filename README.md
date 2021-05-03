@@ -23,3 +23,9 @@ You will also see any lint errors in the console.
 enjoy the build..:))
 
 ### STILL UNDER CONSTRUCTION !
+
+<a href="https://github.com/KundanSingh007/youtube-clone/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=KundanSingh007/youtube-clone" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
